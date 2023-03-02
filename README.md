@@ -1,4 +1,5 @@
 # modal-project
+A project based on the Vue framework.
 
 ## Project setup
 ```
